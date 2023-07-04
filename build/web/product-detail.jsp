@@ -62,14 +62,14 @@
                     <div class="offer-item offer-item1">    
                         <span class="offer-item1-1">TOP OFFER</span>
                         <h4 class="offer-item1-2">Eat Green <br> Best For Family</h4>
-                        <p>Free Shipping 05km</p>
+                        <p>Free Shipping 10km</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="offer-item offer-item2">
                         <span class="offer-item1-3">WEEKENDS DEALS</span>
                         <h4 class="offer-item1-4">Fresh Food <br> Restore Healthy</h4>
-                        <p>Free Shipping</p>
+                        <p>Free Shipping 10km</p>
                     </div>
                 </div>
                 <div class="col-md-4">
